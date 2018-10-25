@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\Parshuram Pawar\Desktop\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\387547533.index
+\ShoppingCart\src\main\resources
